@@ -27,6 +27,14 @@ I made many of the [Popcorn Button](http://www.popcornbutton.org) dance posters.
 <br/>
 <br/>
 
+
+### Stanford Saxophone Choir
+I made posters for the Stanford Saxophone Choir's concerts when I was a member.
+
+
+### Brun Ko Farm
+I make various logos and graphics for my sister's farm ([brunkofarm.com](http://brunkofarm.com), [fb.me/brunkofarm](http://facebook.com/brunkofarm)), and take [photos](TODO: link) for marketing.
+
 ### Paulsen wedding
 I designed the invitations, [website](http://paulsen.curtisullerich.com), and various other things for my sister's wedding in 2015.
 <div class="img_full">
