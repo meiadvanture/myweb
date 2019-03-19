@@ -11,14 +11,14 @@ CS Unplugged has a [lesson](https://classic.csunplugged.org/public-key-encryptio
 I generated three sets of 30 [handouts](https://drive.google.com/open?id=1EoNSoeamPmUjCCiVlfHA_Y7k_qTUdLew) in three levels of difficulty, and you can generate your own with the code [on GitHub](https://github.com/curtisullerich/cs-ed/tree/master/crypto-handouts). Examples embedded below.  
 
 <div class="img_full">
-  <img class="col three" src="{{ site.baseurl }}/img/crypto-handout.png" alt="An example of a handout for one student." title="handout"/>
+  <img class="col three" src="{{- site.baseurl -}}/img/crypto-handout.png" alt="An example of a handout for one student." title="handout"/>
 </div>
 <div class="col three caption">
   An example handout.
 </div>
 
 <div class="img_full">
-  <img class="col three" src="{{ site.baseurl }}/img/private-key.png" alt="An example of a graph used as a private key." title="private key"/>
+  <img class="col three" src="{{- site.baseurl -}}/img/private-key.png" alt="An example of a graph used as a private key." title="private key"/>
 </div>
 <div class="col three caption">
   An example private key.

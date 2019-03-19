@@ -17,13 +17,13 @@ layout: default
 
 
 <ul class="post-list">
-    {% for post in paginator.posts %}
+    {%- for post in paginator.posts -%}
       <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
+        <h2><a class="post-title" href="{{- post.url | prepend: site.baseurl -}}">{{- post.title -}}</a></h2>
+        <p class="post-meta">{{- post.date | date: '%B %-d, %Y — %H:%M' -}}</p>
+        <p>{{- post.description -}}</p>
         <br/>
         <hr/>
       </li>
-    {% endfor %}
+    {%- endfor -%}
 </ul>
