@@ -27,13 +27,30 @@ I made many of the [Popcorn Button](http://www.popcornbutton.org) dance posters.
 <br/>
 <br/>
 
-
 ### Stanford Saxophone Choir
 I made posters for the Stanford Saxophone Choir's concerts when I was a member.
-
+<div class="img_full">
+  <img class="col three" src="{{- site.baseurl -}}/img/sax-event-cover.png" alt="" title=""/>
+</div>
+<div class="img_full">
+  <img class="col half" src="{{- site.baseurl -}}/img/sax-symposium.png" alt="" title=""/>
+  <img class="col half" src="{{- site.baseurl -}}/img/sax-choir.png" alt="" title=""/>
+</div>
+<br/>
+<br/>
 
 ### Brun Ko Farm
 I make various logos and graphics for my sister's farm ([brunkofarm.com](http://brunkofarm.com), [fb.me/brunkofarm](http://facebook.com/brunkofarm)), and take [photos](TODO: link) for marketing.
+<div class="img_full">
+  <img class="col one" src="{{- site.baseurl -}}/img/cow-left-outline.png" alt="Brun Ko Farm cow logo" title="Brun Ko Farm cow logo"/>
+  <img class="col one" src="{{- site.baseurl -}}/img/combined.png" alt="Brun Ko Farm logo" title="Brun Ko Farm logo"/>
+  <img class="col one" src="{{- site.baseurl -}}/img/horse-left-outline.png" alt="Brun Ko Farm horse logo" title="Brun Ko Farm horse logo"/>
+</div>
+<div class="img_full">
+  <img class="col one" src="{{- site.baseurl -}}/img/ehfm.png" alt="Elk Horn Farmers Market logo" title="Elk Horn Farmers Market logo"/>
+</div>
+<br/>
+<br/>
 
 ### Paulsen wedding
 I designed the invitations, [website](http://paulsen.curtisullerich.com), and various other things for my sister's wedding in 2015.
