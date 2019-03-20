@@ -10,26 +10,29 @@ description: we made some props for practicing handstands
   <img class="col half" src="{{- site.baseurl -}}/img/cane-parts.jpg" alt="" title="The completed components for three sets of handstand canes."/>
   <img class="col half" src="{{- site.baseurl -}}/img/cane-angled.jpg" alt="" title="A handstand pedestal with an angled grip."/>
 </div>
+<div class="col three caption">
+  More photos probably coming eventually.
+</div>
 
 [This page](https://sheilabrothers.wordpress.com/2012/02/26/how-to-build-handstand-blocks-for-gymnasts/) from Sheila Brothers and [this one](https://lostartofhandbalancing.com/hand-balancing-stands-and-canes/) from Lost Art of Hand Balancing were helpful starting points.
 
-components
+### components
 We used 2x4s, ¾" plywood, pipe nipples, floor flanges, and screws.
 
 Your local hardware store might have these components, but they'll probably be more expensive. The prices on Amazon tend to fluctuate. Sometimes they're cheaper in a multi-pack, and sometimes they're cheapest as add-on items. Nipples tend to come in multi-packs more than flanges, which is the opposite of what we want, but oh well. You might be able to sell the extra nipples to local yogis making their own and save everyone a bit of money.
 
 Pipe fittings are not all the same. Get galvanized nipples so they're not greasy and don't corrode. "Black iron" will be either greasy or need stripped and sealed to be used. You can strip it with acetone and seal with Minwax finishing wax if necessary. These are the sources I used to derive that process:
 
-An [infographic](http://pipe-decor.com/wp-content/uploads/PDcleanseal-1024x576.jpg) from PipeDecor.
-A [YouTube walkthrough](https://www.youtube.com/watch?v=7bReWtdBtkA) from HandMadeModern.
-A [thread](https://www.reddit.com/r/DIY/comments/3ega90/just_need_some_advice_on_cleaning_black_pipe_for/) from r/DIY
-A [thread](https://www.finehomebuilding.com/forum/what-is-black-pipe) on FineHomebuilding.
+* An [infographic](http://pipe-decor.com/wp-content/uploads/PDcleanseal-1024x576.jpg) from PipeDecor.
+* A [YouTube walkthrough](https://www.youtube.com/watch?v=7bReWtdBtkA) from HandMadeModern.
+* A [thread](https://www.reddit.com/r/DIY/comments/3ega90/just_need_some_advice_on_cleaning_black_pipe_for/) from r/DIY
+* A [thread](https://www.finehomebuilding.com/forum/what-is-black-pipe) on FineHomebuilding.
 
 [¾" flanges](http://amazon.com/gp/product/B01K3O3V5I) (w/ [nipples](http://amazon.com/gp/product/B016Y8HUKO)) will be basically the same width as a 2x4, meaning they're hard to align well. [½" flanges](http://amazon.com/dp/B01K3O3VBW) and [nipples](http://amazon.com/Everflow-Supplies-NPGL1230-Galvanized-Diameter/dp/B016Y8GME4) are what we used. We use only very-short and fairly-short canes at the moment and ½" feels very sturdy but we have no idea how they'll hold up over time, or perform with longer nipples, or for a heavier person.
 
 We did some quick testing of nipples of length 4, 12, 18, and 24 inches with 8" octagonal bases. 12 was the tallest I felt safe using without making a wider base.
 
-construction
+### construction
 Drill pilot holes one at a time, and sink all screws partially after drilling each hole and before tightening any of them completely. Just like putting a wheel back on a car, tighten in a star pattern, not a circle Get your pilot holes placed correctly or they'll be basically impossible to correct without a drill and some clamps. If you have access to a drill press, I recommend using it for all pilot holes, especially if making angled grips.
 
 Cut the bases into octagons, because squares are unnecessary (and hard to keep aligned if you're making swappable grips) and circles are hard to cut. And octagons are cool.
@@ -49,4 +52,4 @@ I use plain plywood bases on hard floors and have never had an issue with slidin
 
 I found that I can walk down to the floor from canes with 3" or 4" nipples pretty reasonably. When I started practicing without a spotter or wall, that was reassuring. I worked my way up to twisting out on the short canes rather than walking my hands down, and then did some spotted twist outs of the taller ones until I was comfortable doing that unspotted.
 
-If you'd like to comment on this article, comment on the [Google Docs version](https://docs.google.com/document/d/1Z7dh1yRIxg3Mp0-MqpwWY-vU0T45RyWhihahlAwJz3A/edit).
+If you'd like to comment on this article with improvements or questions, head over to the [Google Docs version](https://docs.google.com/document/d/1Z7dh1yRIxg3Mp0-MqpwWY-vU0T45RyWhihahlAwJz3A/edit).
