@@ -4,7 +4,7 @@ title: photography
 description: astrophotography and some down-to-earth work
 ---
 
-Some of my favorite captures are in this Google Photos [album](https://photos.app.goo.gl/CMhgE6r7vy5XwQCT9).  
+Some of my favorite captures are in this [Google Photos album](https://photos.app.goo.gl/CMhgE6r7vy5XwQCT9).  
 
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/reflection-canyon.jpg">
