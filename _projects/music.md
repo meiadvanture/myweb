@@ -35,8 +35,9 @@ enabling dynamic manipulation of objects in haptic 3D space to spawn and move
 objects using a stylus.  
 
 #### A Walk
-Darren Hushak and I created a piece within VESC, with control in Max/MSP and
-sound design in Reaktor. This piece is all about textures and
+[Darren Hushak](http://pinnacle-recording.com) and I created a piece within
+VESC, with control in Max/MSP and sound design in Reaktor. This piece is all
+about textures and
 [mappings](http://delivery.acm.org/10.1145/1090000/1085207/p1-hunt.pdf?ip=65.110.254.40&acc=ACTIVE%20SERVICE&CFID=251752148&CFTOKEN=87889625&__acm__=1357930181_e70cb6d6d87420859d3df035d906b669).
 In Max/MSP we combined surface parameters like friction, with stylus interaction
 parameters like force, orientation, and velocity using various mappings for
