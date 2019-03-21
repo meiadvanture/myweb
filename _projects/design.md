@@ -83,7 +83,7 @@ I make various logos and graphics for my sister's farm ([brunkofarm.com](http://
 <br/>
 
 ### Paulsen wedding
-I designed the invitations, [website](http://paulsen.curtisullerich.com), and various other things for my sister's wedding in 2015.
+I designed the invitations, [website](http://nathanandemily.curtisullerich.com), and various other things for my sister's wedding in 2015.
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/invitation.png">
     <img class="col half" src="{{- site.baseurl -}}/img/thumbs/invitation.png" alt="Postcard invitation for a wedding." title="RSVP postcard invitation"/>
