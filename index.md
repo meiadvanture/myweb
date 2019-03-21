@@ -5,10 +5,10 @@ layout: default
 <div class="header-bar">
   <h1>Curtis Ullerich</h1>
   <h2>
-    Engineering,
+    engineering,
     <a href="https://4-h.org/4-h-alumni-community/4-h-alumni-luminaries/#!our-luminaries" target="_blank">4-H</a>,
     <a href="http://duo.idamayer.com" target="_blank">acrobatics</a>,
-    <a href="https://www.youtube.com/c/curtisullerich" target="_blank">music</a>.
+    <a href="https://www.youtube.com/c/curtisullerich" target="_blank">music</a>
   </h2>
   <br/>
   <hr>

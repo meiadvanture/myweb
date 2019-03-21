@@ -1,7 +1,7 @@
 ---
 layout: post
 title: error detection magic trick
-description: Code to generate classroom handouts for an error detection lesson.
+description: code to generate classroom handouts for an error detection lesson
 ---
 
 CS Unplugged has a [lesson on error detection](https://csunplugged.org/en/topics/error-detection-and-correction/unit-plan/parity-magic/) that uses secret parity bits to make a card trick work. 

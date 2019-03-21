@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: Some things I've done.
+description: some things I've done
 ---
 
 <ul class="post-list">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: computer music
-description: I make digital instruments, compose, and perform computer music.
+description: I make digital instruments, compose, and perform computer music
 ---
 
 This page describes some of my work in computer music.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: key pairs for by-hand encryption
-description: Scripts to generate arbitrarily complex classroom handouts for public/private graph pairs.
+description: scripts to generate arbitrarily complex classroom handouts for public/private graph pairs
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: photography
-description: Astrophotography and some down-to-earth work.
+description: astrophotography and some down-to-earth work
 ---
 
 Some of my favorite captures are in this Google Photos [album](https://photos.app.goo.gl/CMhgE6r7vy5XwQCT9).  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: graphic design
-description: Some graphic design hobby work.
+description: some graphic design hobby work
 ---
 
 I enjoy dabbling in visual arts. So far this has mostly manifested in posters I've made for one event or another. I do the majority of my work in Gimp on Linux.
