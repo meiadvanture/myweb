@@ -103,6 +103,14 @@ play them back interpreted as glissandi in the time:pitch coordinates.
 </div>
 <br/><br/>
 
+### cmix
+I translated many of the examples in Heinrich Taube's "Notes from the Metalevel"
+from lisp to [PyRTCMix](http://www.rtcmix.org). I implemented several functions
+from the Common Music API as well, most notably nth-order Markov chaining. You
+can see the code on
+[GitHub](https://github.com/curtisullerich/computer-music/tree/master/rtcmix).
+<br/><br/>
+
 ### pops
 My very first music technology project. Using one 800 ms sample of a "pop"
 sound, I created a single-timbred sampling instrument reminiscent of a marimba.
