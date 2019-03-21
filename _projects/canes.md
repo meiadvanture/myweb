@@ -7,8 +7,12 @@ description: we made some props for practicing handstands
 [Ida](http://idamayer.com) and I made some handstand canes. I think the term for this style is properly handstand pedestals, but "canes" is the universally recognized term. Regardless, here are some notes on how we did it.
 
 <div class="img_row">
-  <img class="col half" src="{{- site.baseurl -}}/img/cane-parts.jpg" alt="" title="The completed components for three sets of handstand canes."/>
-  <img class="col half" src="{{- site.baseurl -}}/img/cane-angled.jpg" alt="" title="A handstand pedestal with an angled grip."/>
+  <a target="_blank" href="{{- site.baseurl -}}/img/cane-parts.jpg">
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/cane-parts.jpg" alt="" title="The completed components for three sets of handstand canes."/>
+  </a>
+  <a target="_blank" href="{{- site.baseurl -}}/img/cane-angled.jpg">
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/cane-angled.jpg" alt="" title="A handstand pedestal with an angled grip."/>
+  </a>
 </div>
 <div class="col three caption">
   More photos probably coming eventually.
