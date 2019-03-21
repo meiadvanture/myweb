@@ -10,13 +10,18 @@ controllers with Android tablets running
 by Dan Iglesia, the GMOrk leader.  I also performed as a guest artist in
 Sideband's Bay Area tour in fall of 2018. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Axk0a_1B3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/-Axk0a_1B3A" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="col three caption">
   Performing with <a href="http://www.sidebandband.com/">Sideband</a> at PDCon in New York City.
 </div>
 <br/><br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ir3cWzRgcHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/ir3cWzRgcHE" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="col three caption">
   Performing as part of the Canessa Gallery series organized by Bryan Day in San Francisco.
 </div>
@@ -36,7 +41,9 @@ sound design in Reaktor. This piece is all about textures and
 In Max/MSP we combined surface parameters like friction, with stylus interaction
 parameters like force, orientation, and velocity using various mappings for
 sound synthesis.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kH0IAbcZDLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/kH0IAbcZDLQ" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="col three caption">
   A performance of "A Walk" with live video of the performer.
 </div>
@@ -47,7 +54,9 @@ I created a checkerboard-like layout and used my newly-written features of
 object spawning and movement to control the x-y pair inputs to a
 [Euclidean rhythm](http://www.hisschemoller.com/2011/euclidean-rhythms/)
 generator.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6EF4Kq11P5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/6EF4Kq11P5o" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="col three caption">
   A piece played using Euc-grid.
 </div>
@@ -62,7 +71,9 @@ Two pieces of mine, "Etude" and "Chimeric Devotion."
 ### live coding
 I've done some live coding in Impromptu and Extempore. Here is a piece I made
 called "Bight"  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m0aw5hevtiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/m0aw5hevtiU" frameborder="0" allowfullscreen></iframe>
+</div>
 <br/><br/>
 
 ### pitch trail composer
@@ -84,7 +95,9 @@ play them back interpreted as glissandi in the time:pitch coordinates.
 </div>
 <br/><br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xl4C4zsy9LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/xl4C4zsy9LY" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="col three caption">
   Here is a recreation of THX's "Deep Note" using PTC.
 </div>
