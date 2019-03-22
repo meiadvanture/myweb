@@ -17,7 +17,6 @@ Sideband's Bay Area tour in fall of 2018.
 <div class="col three caption">
   Performing with <a href="http://www.sidebandband.com/">Sideband</a> at PDCon in New York City.
 </div>
-<br/><br/>
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/ir3cWzRgcHE" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +24,6 @@ Sideband's Bay Area tour in fall of 2018.
 <div class="col three caption">
   Performing as part of the Canessa Gallery series organized by Bryan Day in San Francisco.
 </div>
-<br/><br/>
 
 ### Haptic 3D Music
 While at Iowa State University I was an RA and student of
@@ -48,7 +46,6 @@ sound synthesis.
 <div class="col three caption">
   A performance of "A Walk" with live video of the performer.
 </div>
-<br/><br/>
 
 #### Euc-grid
 I created a checkerboard-like layout and used my newly-written features of
@@ -61,13 +58,11 @@ generator.
 <div class="col three caption">
   A piece played using Euc-grid.
 </div>
-<br/><br/>
 
 ### electroacoustic composition
 Two pieces of mine, "Etude" and "Chimeric Devotion."
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/32606962&color=%238200c1&auto_play=false&show_artwork=false"> </iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/62399244&color=%238200c1&auto_play=false&show_artwork=false"> </iframe>
-<br/><br/>
 
 ### live coding
 I've done some live coding in Impromptu and Extempore. Here is a piece I made
@@ -75,7 +70,6 @@ called "Bight"
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/m0aw5hevtiU" frameborder="0" allowfullscreen></iframe>
 </div>
-<br/><br/>
 
 ### pitch trail composer
 I made an application in Max/MSP that allows you to draw lines on a canvas and
@@ -88,13 +82,11 @@ play them back interpreted as glissandi in the time:pitch coordinates.
 <div class="col three caption">
   A score created in Pitch Trail Composer.
 </div>
-<br/><br/>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74590917&color=%238200c1&auto_play=false&show_artwork=false"> </iframe>
 <div class="col three caption">
   Hear the score shown above.
 </div>
-<br/><br/>
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/xl4C4zsy9LY" frameborder="0" allowfullscreen></iframe>
@@ -102,7 +94,6 @@ play them back interpreted as glissandi in the time:pitch coordinates.
 <div class="col three caption">
   Here is a recreation of THX's "Deep Note" using PTC.
 </div>
-<br/><br/>
 
 ### cmix
 I translated many of the examples in Heinrich Taube's "Notes from the Metalevel"
@@ -110,7 +101,6 @@ from lisp to [PyRTCMix](http://www.rtcmix.org). I implemented several functions
 from the Common Music API as well, most notably nth-order Markov chaining. You
 can see the code on
 [GitHub](https://github.com/curtisullerich/computer-music/tree/master/rtcmix).
-<br/><br/>
 
 ### pops
 My very first music technology project. Using one 800 ms sample of a "pop"

@@ -5,8 +5,6 @@ description: some graphic design hobby work
 ---
 
 I enjoy dabbling in visual arts. So far this has mostly manifested in posters I've made for one event or another. I do the majority of my work in Gimp on Linux.
-<br/>
-<br/>
 
 ### Popcorn Button posters
 I made many of the [Popcorn Button](http://www.popcornbutton.org) dance posters. I tend to start with inspiration from a classic big band poster, but the end result diverges pretty far from the source material. I enjoy theming sequences of posters, like using common design elements across the three red/white/blue options to make them thematically appropriate for both Independence Day and Christmas. The 2014 posters feature the Des Moines skyline and a statue from the city park in Atlantic, set in different seasons. The bottom row also features a poster I made to promote our [scholarship](http://www.popcornbutton.org/scholarship).
@@ -40,8 +38,6 @@ I made many of the [Popcorn Button](http://www.popcornbutton.org) dance posters.
     <img class="col one" src="{{- site.baseurl -}}/img/thumbs/scholarship-web.png" alt="" title=""/>
   </a>
 </div>
-<br/>
-<br/>
 
 ### Stanford Saxophone Choir
 I made posters for the Stanford Saxophone Choir's concerts when I was a member.
@@ -58,8 +54,6 @@ I made posters for the Stanford Saxophone Choir's concerts when I was a member.
     <img class="col half" src="{{- site.baseurl -}}/img/thumbs/sax-choir.png" alt="" title=""/>
   </a>
 </div>
-<br/>
-<br/>
 
 ### Brun Ko Farm
 I make various logos and graphics for my sister's farm ([brunkofarm.com](http://brunkofarm.com), [fb.me/brunkofarm](http://facebook.com/brunkofarm)), and take [photos](TODO: link) for marketing.
@@ -79,8 +73,6 @@ I make various logos and graphics for my sister's farm ([brunkofarm.com](http://
     <img class="col one" src="{{- site.baseurl -}}/img/thumbs/ehfm.png" alt="Elk Horn Farmers Market logo" title="Elk Horn Farmers Market logo"/>
   </a>
 </div>
-<br/>
-<br/>
 
 ### Paulsen wedding
 I designed the invitations, [website](http://nathanandemily.curtisullerich.com), and various other things for my sister's wedding in 2015.
@@ -92,8 +84,6 @@ I designed the invitations, [website](http://nathanandemily.curtisullerich.com),
     <img class="col half" src="{{- site.baseurl -}}/img/thumbs/postcard.png" alt="Reverse of RSVP postcard." title="reverse"/>
   </a>
 </div>
-<br/>
-<br/>
 
 ### 4-H STEM project posters
 I'm the volunteer project leader for the Homesteaders 4-H Club STEM project. I made a couple of posters to promote the project.
@@ -105,8 +95,6 @@ I'm the volunteer project leader for the Homesteaders 4-H Club STEM project. I m
     <img class="col one" src="{{- site.baseurl -}}/img/thumbs/stem-light.png" alt="Light flier for a STEM project." title="Light STEM flier"/>
   </a>
 </div>
-<br/>
-<br/>
 
 ### Baritone section shirt
 I designed our section shirt during my senior year in the ISUCF"V"MB.
