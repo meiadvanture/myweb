@@ -27,7 +27,7 @@ $lime_green: #B7D12A;
 $purple: #8200c1;
 
 /** Set theme color */
-$theme-color:   $purple;
+$theme-color: $purple;
 
 /** Basic styling */
 body {
@@ -83,13 +83,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /** Links */
 a {
-  color: $text-color;
+  color: $theme-color;
   text-decoration: none;
-  /*
-  &:visited {
-    color: darken($brand-color, 15%); 
-  }
-  */
+  // &:visited {
+  //   color: lighten($theme-color, 15%);
+  // }
   &:hover {
     color: $theme-color;
     text-decoration: none;
@@ -101,9 +99,6 @@ article a {
   &:hover {
     text-decoration: none;
   }
-}
-.header-bar a {
-  text-decoration: underline;
 }
 
 /** Blockquotes */
