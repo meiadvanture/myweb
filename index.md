@@ -8,7 +8,7 @@ layout: default
     engineering,
     <a href="https://4-h.org/4-h-alumni-community/4-h-alumni-luminaries/#!our-luminaries" target="_blank">4-H</a>,
     <a href="http://duo.idamayer.com" target="_blank">acrobatics</a>,
-    <a href="https://www.youtube.com/c/curtisullerich" target="_blank">music</a>
+    <a href="/projects/music" target="_blank">music</a>
   </h2>
 </div>
 {%- comment -%}
