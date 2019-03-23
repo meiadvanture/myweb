@@ -10,12 +10,9 @@ layout: default
     <a href="http://duo.idamayer.com" target="_blank">acrobatics</a>,
     <a href="https://www.youtube.com/c/curtisullerich" target="_blank">music</a>
   </h2>
-  <br/>
-  <hr>
-  <br/>
 </div>
-
-
+{%- comment -%}
+<hr>
 <ul class="post-list">
     {%- for post in paginator.posts -%}
       <li>
@@ -27,3 +24,4 @@ layout: default
       </li>
     {%- endfor -%}
 </ul>
+{%- endcomment -%}
