@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Gothic A1', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -39,5 +39,6 @@ $on-laptop:        800px;
 @import
  "base",
  "layout",
- "syntax-highlighting"
+ "syntax-highlighting",
+ url('https://fonts.googleapis.com/css?family=Gothic+A1:200,300,400,700')
 ;
