@@ -17,6 +17,7 @@ Sideband's Bay Area tour in fall of 2018.
 <div class="col three caption">
   Performing with <a href="http://www.sidebandband.com/">Sideband</a> at PDCon in New York City.
 </div>
+<br/>
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/ir3cWzRgcHE" frameborder="0" allowfullscreen></iframe>
@@ -87,6 +88,7 @@ play them back interpreted as glissandi in the time:pitch coordinates.
 <div class="col three caption">
   Hear the score shown above.
 </div>
+<br/>
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/xl4C4zsy9LY" frameborder="0" allowfullscreen></iframe>
