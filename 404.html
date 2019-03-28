@@ -9,7 +9,7 @@ function UrlExists(url) {
   return http.status != 404;
 }
 var maybeUrl = "https://college.curtisullerich.com" + window.location.pathname;
-if (UrlExists(maybeUrl)) {
+if (window.location.pathname != "/404" && window.location.pathname != "/404.html" && UrlExists(maybeUrl)) {
   console.log("exists");
   window.location.replace(maybeUrl);
 }
