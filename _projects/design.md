@@ -56,7 +56,10 @@ I made posters for the Stanford Saxophone Choir's concerts when I was a member.
 </div>
 
 ### Brun Ko Farm
-I make various logos and graphics for my sister's farm ([brunkofarm.com](http://brunkofarm.com), [fb.me/brunkofarm](http://facebook.com/brunkofarm)), and take [photos](TODO: link) for marketing.
+I make various logos and graphics for my sister's farm 
+([brunkofarm.com](http://brunkofarm.com), 
+[fb.me/brunkofarm](http://facebook.com/brunkofarm)), and take 
+[photos](https://goo.gl/photos/JotrBoVKSpV8DYeYA) for marketing.
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/cow-left-outline.png">
     <img class="col one" src="{{- site.baseurl -}}/img/thumbs/cow-left-outline.png" alt="Brun Ko Farm cow logo" title="Brun Ko Farm cow logo"/>
