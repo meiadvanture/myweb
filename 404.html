@@ -1,5 +1,18 @@
 ---
 layout: default
 ---
+<script>
+function UrlExists(url) {
+  var http = new XMLHttpRequest();
+  http.open('HEAD', url, false);
+  http.send();
+  return http.status != 404;
+}
+var maybeUrl = "https://college.curtisullerich.com" + window.location.pathname;
+if (UrlExists(maybeUrl)) {
+  console.log("exists");
+  window.location.replace(maybeUrl);
+}
+</script>
 
-<p>Sorry, that page doesn't exist. If you're looking for something on my old website (my college portfolio) try the link at <a href="http://college.curtisullerich.com" target="_blank">college.curtisullerich.com</a> instead.</p>
+<p>Sorry, that page doesn't exist. Feel free to email 404@curtis.in so I can correct this.</p>
