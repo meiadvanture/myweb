@@ -19,13 +19,13 @@ I enjoy doing astrophotography, primarily of the Milky Way. I combine this with 
 
 <div class="img_row">
   <a target="_blank" href="{{- site.baseurl -}}/img/star.jpg">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/star.jpg" alt="" title="A pony looking at the camera."/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/star.jpg" alt="A pony looking at the camera." title="Star"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/dorothy.jpg">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/dorothy.jpg" alt="" title="A bee on a flower."/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/dorothy.jpg" alt="A bee on a flower." title="Dorothy"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/torch.jpg">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/torch.jpg" alt="" title="A 2-second exposure of a torch being spun, creating a circle of flame."/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/torch.jpg" alt="A 2-second exposure of a torch being spun, creating a circle of flame." title="Torch"/>
   </a>
 </div>
 

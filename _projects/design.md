@@ -10,32 +10,32 @@ I enjoy dabbling in visual arts. So far this has mostly manifested in posters I'
 I made many of the [Popcorn Button](http://www.popcornbutton.org) dance posters. I tend to start with inspiration from a classic big band poster, but the end result diverges pretty far from the source material. I enjoy theming sequences of posters, like using common design elements across the three red/white/blue options to make them thematically appropriate for both Independence Day and Christmas. The 2014 posters feature the Des Moines skyline and a statue from the city park in Atlantic, set in different seasons. The bottom row also features a poster I made to promote our [scholarship](http://www.popcornbutton.org/scholarship).
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/hb-2015.png">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/hb-2015.png" alt="" title=""/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/hb-2015.png" alt="A poster for a big band dance featuring a giftbox full of popcorn." title="Holiday Ball 2015"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/lfs-2015.png">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/lfs-2015.png" alt="" title=""/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/lfs-2015.png" alt="A poster for a big band dance featuring an exploding box of popcorn." title="Let Freedom Swing 2015"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/hb-2016.png">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/hb-2016.png" alt="" title=""/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/hb-2016.png" alt="A poster for a big band dance featuring a trombone wrapped in red and white striped paper." title="Holiday Ball 2016"/>
   </a>
 </div>
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/hb-2014.png">
-    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/hb-2014.png" alt="" title=""/>
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/hb-2014.png" alt="A poster for a big band dance featuring a winter scene of the town of Atlantic." title="Holiday Ball 2014"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/lfs-2014.png">
-    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/lfs-2014.png" alt="" title=""/>
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/lfs-2014.png" alt="A poster for a big band dance featuring a summer scene of the town of Atlantic." title="Let Freedom Swing 2014"/>
   </a>
 </div>
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/hb-2017.png">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/hb-2017.png" alt="" title=""/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/hb-2017.png" alt="A poster for a big band dance featuring a deer walking in a snowstorm." title="Holiday Ball 2017"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/lfs-2016.png">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/lfs-2016.png" alt="" title=""/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/lfs-2016.png" alt="A poster for a big band dance featuring a trumpet and fireworks." title="Let Freedom Swing 2016"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/scholarship-web.png">
-    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/scholarship-web.png" alt="" title=""/>
+    <img class="col one" src="{{- site.baseurl -}}/img/thumbs/scholarship-web.png" alt="A poster for a music scholarship with a dollar sign in the time signature place next to a treble clef on a music staff." title="Money Time"/>
   </a>
 </div>
 
@@ -43,15 +43,15 @@ I made many of the [Popcorn Button](http://www.popcornbutton.org) dance posters.
 I made posters for the Stanford Saxophone Choir's concerts when I was a member.
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/sax-event-cover.png">
-    <img class="col three" src="{{- site.baseurl -}}/img/thumbs/sax-event-cover.png" alt="" title=""/>
+    <img class="col three" src="{{- site.baseurl -}}/img/thumbs/sax-event-cover.png" alt="Six saxophones arranged by size." title="Stanford Sax Choir cover photo"/>
   </a>
 </div>
 <div class="img_full">
   <a target="_blank" href="{{- site.baseurl -}}/img/sax-symposium.png">
-    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/sax-symposium.png" alt="" title=""/>
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/sax-symposium.png" alt="A poster for the Stanford Sax Symposium featuring a stained glass window of a bari sax." title="Stanford Sax Symposium"/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/sax-choir.png">
-    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/sax-choir.png" alt="" title=""/>
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/sax-choir.png" alt="A poster for a holiday concert by the Stanford Saxophone Choir." title="Stanford Sax Choir"/>
   </a>
 </div>
 

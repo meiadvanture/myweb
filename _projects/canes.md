@@ -8,10 +8,10 @@ description: we made some props for practicing handstands
 
 <div class="img_row">
   <a target="_blank" href="{{- site.baseurl -}}/img/cane-parts.jpg">
-    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/cane-parts.jpg" alt="" title="The completed components for three sets of handstand canes."/>
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/cane-parts.jpg" alt="A set of parts for three completed pairs of handstand canes." title="The completed components for three sets of handstand canes."/>
   </a>
   <a target="_blank" href="{{- site.baseurl -}}/img/cane-angled.jpg">
-    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/cane-angled.jpg" alt="" title="A handstand pedestal with an angled grip."/>
+    <img class="col half" src="{{- site.baseurl -}}/img/thumbs/cane-angled.jpg" alt="A single handstand cane with an angled grip." title="A handstand pedestal with an angled grip."/>
   </a>
 </div>
 <div class="col three caption">
