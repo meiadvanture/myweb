@@ -38,9 +38,41 @@ objects using a stylus.
 VESC, with control in Max/MSP and sound design in Reaktor. This piece is all
 about textures and
 [mappings](http://delivery.acm.org/10.1145/1090000/1085207/p1-hunt.pdf?ip=65.110.254.40&acc=ACTIVE%20SERVICE&CFID=251752148&CFTOKEN=87889625&__acm__=1357930181_e70cb6d6d87420859d3df035d906b669).
-In Max/MSP we combined surface parameters like friction, with stylus interaction
+Our objective was to create a virtual musical instrument that maps physical
+gestures into aurally meaningful and creatively interesting music. In
+Max/MSP we combined surface parameters like friction, with stylus interaction
 parameters like force, orientation, and velocity using various mappings for
 sound synthesis.  
+
+The set of available inputs:
+- position (x,y,z)
+- velocity (x,y,z)
+- orientation (x,y,z,a)
+- force (x,y,z)
+- touched (boolean)
+- contact point (x,y,z)
+- angle from surface (radians)
+- and other context-based extensions
+
+Available outputs:
+- note on/off
+- pitch (playback speed)
+- frequency modulation (amplitude and frequency)
+- ADSR envelope parameters
+- sample volume
+
+Mappings can be convergent (many-to-one), divergent (one-to-many), simple (one-to-one), or multivergent (a combination).  
+<div class="img_full">
+  <a target="_blank" href="{{- site.baseurl -}}/img/mapping.png">
+    <img class="col three" src="{{- site.baseurl -}}/img/mapping.png" alt="A sample mapping of input parameters to output controls." title="Mapping"/>
+  </a>
+</div>
+<div class="col three caption">
+  A sample mapping.
+</div>
+
+"A Walk" uses complex, primarily convergent mappings. We demonstrated it at the SEAMUS Concert 2013 at McNally Smith College of Music.  
+
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/kH0IAbcZDLQ" frameborder="0" allowfullscreen></iframe>
 </div>
