@@ -7,8 +7,8 @@
         {%- endcomment -%}
         <a class="page-link" href="{{- site.baseurl -}}/">home</a>
         {%- for page in site.pages -%}
-          {%- if page.title -%}
-          <a class="page-link" href="{{- page.url | prepend: site.baseurl -}}">{{- page.title -}}</a>
+          {%- if page.nav -%}
+            <a class="page-link" href="{{- page.url | prepend: site.baseurl -}}">{{- page.title -}}</a>
           {%- endif -%}
         {%- endfor -%}
       </div>

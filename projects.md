@@ -3,6 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: some things I've done
+nav: true
 ---
 
 <ul class="post-list">
