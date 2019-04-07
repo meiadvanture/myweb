@@ -49,8 +49,6 @@
 }
 .page-content{
   .header-bar {
-    left: 0px;
-    top: 0px;
     position: relative;
     font-size: 20px;
     display: block;
@@ -64,10 +62,12 @@
       color: darken($theme-color, 5%);
       font-size: 60px;
       margin: 0;
+      padding: 0;
     }
     h2 {
       font-size: 20px;
       margin: 0;
+      padding: 0;
     }
   }
 }
@@ -115,15 +115,19 @@
   h1, h2, h3 {
     margin: 1.25em 0 .25em 0;
     padding: 0;
+    margin-top: calc(1.25em - 100px);
+    padding-top: 100px;
   }
 }
 .page-heading {
   font-size: 20px;
 }
 .post-list {
-  margin: 0px 0;
+  margin: 0;
+  padding: 0;
   h1, h2, h3 {
-    margin: 0px 0;
+    margin: 0;
+    padding: 0;
   }
   list-style: none;
   > li {
