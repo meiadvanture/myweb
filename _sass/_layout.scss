@@ -65,7 +65,7 @@
       padding: 0;
 
       // Background gradient
-      background: -webkit-linear-gradient(left, darken($theme-color, 5%), #444);
+      background: -webkit-linear-gradient(left, lighten($theme-color, 30%), #220055);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
