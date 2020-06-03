@@ -6,7 +6,7 @@ layout: default
   <h1>Curtis Ullerich</h1>
   <h2>
     engineering,
-    <a href="https://4-h.org/4-h-alumni-community/4-h-alumni-luminaries/#!our-luminaries" target="_blank">4-H</a>,
+    <a href="https://4-h.org/about/luminaries/#!our-luminaries" target="_blank">4-H</a>,
     <a href="/projects/music" target="_blank">music</a>
   </h2>
 </div>
