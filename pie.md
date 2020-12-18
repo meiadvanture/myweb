@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /pie
 title: apple pie
 description: apple pie - ingredients and instructions
 ---
