@@ -4,6 +4,9 @@ title: computer music
 description: I make digital instruments, compose, and perform computer music
 ---
 
+I'm contributing to instrument design for Anne Hege's opera *The Furies* using
+ChucK and GameTrak controllers. Check it out at http://laptopera.org/.  
+
 I perform as part of the Google Mobile Orchestra. We primarily use tether
 controllers with Android tablets running
 [MobMuPlat](http://danieliglesia.com/mobmuplat/) and a custom synth designed
