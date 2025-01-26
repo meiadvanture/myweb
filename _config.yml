@@ -1,11 +1,11 @@
 # Site settings
-title: Curtis Ullerich
-email: web@curtis.in
+title: Meishan Fan
+email: web@meimei.lol
 description: > # this means to ignore newlines until "baseurl:"
   Things I've done and made.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-github_username:  curtisullerich
+# github_username:  curtisullerich
 
 # Build settings
 markdown: kramdown

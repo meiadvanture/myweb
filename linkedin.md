@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: Curtis on LinkedIn
-redirect_url: http://www.linkedin.com/pub/curtis-ullerich/1b/501/245
+title: Meishan on LinkedIn
+redirect_url: http://www.linkedin.com/in/meishanfan
 redirect_text: LinkedIn page
 ---
 
