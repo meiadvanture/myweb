@@ -4,8 +4,8 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'Gothic A1', sans-serif;
-$base-font-size:   16px;
+$base-font-family: 'Garamond', 'Gothic A1', sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -15,7 +15,7 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #626262;
+$grey-color:       #8c5f34;
 $grey-color-light: lighten($grey-color, 25%);
 $grey-color-dark:  darken($grey-color, 25%);
 
