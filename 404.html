@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: not_found
+title: 404
+permalink: /404.html
 ---
-<script>
-function UrlExists(url) {
-  var http = new XMLHttpRequest();
-  http.open('HEAD', url, false);
-  http.send();
-  return http.status != 404;
-}
-var maybeUrl = "https://college.curtisullerich.com" + window.location.pathname;
-if (window.location.pathname != "/404" && window.location.pathname != "/404.html" && UrlExists(maybeUrl)) {
-  console.log("exists");
-  window.location.replace(maybeUrl);
-}
-</script>
-
-<p>Sorry, that page doesn't exist. Feel free to email 404@curtis.in so I can correct this.</p>
+<!-- {% include switch.html %} -->
+<img src="{{site.baseurl}}/img/emojis/thinking-face.png" alt="">
+<h1>Uh oh!</h1>
+<h2>It seems like there's nothing here</h2>
+<h3>If you think there should be something on this page, feel free to email me at <a href="mailto:404@meimei.lol" target="_blank" class="highlight-link">404@meimei.lol</a> 
+    and I'll make sure to fix it.
+    <br>
+    Otherwise, you can click <a href="{{site.url}}">here</a> to go back to the homepage.
+</h3>
