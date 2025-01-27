@@ -33,8 +33,10 @@
     &:not(:first-child) {
       margin-left: 10px;
     &:hover {
-      font-weight: bold; /* Bolding text on hover */
+      // font-weight: bold; /* Bolding text on hover */
       text-decoration: underline; /* Underline text on hover */
+      text-decoration-thickness: 1px; // Adjust the thickness
+      text-underline-offset: 3px; // Adjust the offset (increase for more distance)
     }
     }
   }
