@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-description: Some things I've done.
+description: 
 nav: true
 ---
 
