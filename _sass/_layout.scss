@@ -72,7 +72,7 @@
       padding: 0;
 
       // Background gradient
-      background: -webkit-linear-gradient(left, lighten($theme-color, 5%), #ed0707);
+      background: -webkit-linear-gradient(right, lighten($theme-color, 30%), #ef2d0b);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
@@ -379,11 +379,18 @@
 /** Project formatting ********************************************/
 .project {
   max-width: 600px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   &__title {
     font-size: 24px;
     margin-bottom: 0px;
     line-height: 1;
+    &:hover {
+      font-weight: bold; /* Bolding text on hover */
+      text-decoration: underline; /* Underline text on hover */
+      text-decoration-thickness: 1px; // Adjust the thickness
+      text-underline-offset: 4px; // Adjust the offset (increase for more distance)
+      color:$theme-color
+    }
   }
   p {
   font-size: 16px;
@@ -397,8 +404,8 @@
     font-weight: bold;
     padding: 0px 8px;
     border-radius: 3px;
-    color: $purple;
-    border: 1px dashed $purple;
+    color: $text-color;
+    border: 1px dashed $text-color;
     background: transparent;
     &:first-of-type {
       margin-left: 0;
