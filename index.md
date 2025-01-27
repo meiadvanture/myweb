@@ -23,3 +23,4 @@ layout: default
     {%- endfor -%}
 </ul>
 {%- endcomment -%}
+{% include intro.html %}
