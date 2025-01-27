@@ -10,7 +10,10 @@ nav: true
   <li>
     <div class="project">
       <div class="project__title">
-        <a href="{{- p.url | prepend: site.baseurl -}}" target="_blank" class="arrow-link">{{- p.title -}}</a>
+      <!-- with arrow -->
+        <!-- <a href="{{- p.url | prepend: site.baseurl -}}" target="_blank" class="arrow-link">{{- p.title -}}</a> -->
+      <!-- without arrow -->
+        <a href="{{- p.url | prepend: site.baseurl -}}">{{- p.title -}}</a>
       </div>
       <p>
         {{- p.description -}}
