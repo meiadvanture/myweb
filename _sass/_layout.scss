@@ -28,9 +28,14 @@
   line-height: $nav-height;
   .page-link{
     line-height: $base-line-height;
+    transition: font-weight 0.3s ease;
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
       margin-left: 10px;
+    &:hover {
+      font-weight: bold; /* Bolding text on hover */
+      text-decoration: underline; /* Underline text on hover */
+    }
     }
   }
   @include media-query($on-palm) {
@@ -152,7 +157,8 @@
  */
 .post-header {
   margin-bottom: $vertical-spacing-unit;
-  color: #60340b
+  color: $theme-color
+  // color: #60340b
 }
 .post-title {
   font-size: 42px;
