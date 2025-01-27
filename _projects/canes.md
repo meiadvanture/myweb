@@ -2,6 +2,7 @@
 layout: post
 title: handstand canes
 description: I made some props for practicing handstands
+features: [test1, test2, test1 test2]
 ---
 
 I made some handstand canes. I think the term for this style is properly handstand pedestals, but "canes" is the universally recognized term. Regardless, here are some notes on how I did it.

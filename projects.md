@@ -8,11 +8,20 @@ nav: true
 <ul class="post-list">
 {%- for p in site.projects reversed -%}
   <li>
-    <h2><a class="project-title" href="{{- p.url | prepend: site.baseurl -}}">{{- p.title -}}</a></h2>
-    {%- comment -%}
-    <p class="post-meta">{{- p.date | date: '%B %-d, %Y — %H:%M' -}}</p>
-    {%- endcomment -%}
-    <p class="post-meta">{{- p.description -}}</p>
+    <div class="project">
+      <div class="project__title">
+        <a href="{{- p.url | prepend: site.baseurl -}}" target="_blank" class="arrow-link">{{- p.title -}}</a>
+      </div>
+      <p>
+        {{- p.description -}}
+      </p>
+      {% if p.features.size > 0 %}
+        {% for feature in p.features %}
+          <div class="features">
+            {{- feature -}}
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
   </li>
 {%- endfor -%}
-</ul>
