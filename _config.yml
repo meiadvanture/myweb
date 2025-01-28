@@ -22,5 +22,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  backpacking: 
+    output: true
+    permalink: /backpacking/:path/
 
 

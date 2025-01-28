@@ -6,7 +6,7 @@ nav: true
 ---
 
 <ul class="post-list">
-{%- for p in site.projects reversed -%}
+{%- for p in site.backpacking -%}
   <li>
     <div class="page">
       <div class="page__title">
