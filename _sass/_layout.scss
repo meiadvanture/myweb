@@ -31,13 +31,13 @@
     transition: font-weight 0.3s ease;
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
-      margin-left: 10px;
+      margin-left: 20px;
+    }
     &:hover {
       // font-weight: bold; /* Bolding text on hover */
       text-decoration: underline; /* Underline text on hover */
       text-decoration-thickness: 1px; // Adjust the thickness
       text-underline-offset: 3px; // Adjust the offset (increase for more distance)
-    }
     }
   }
   @include media-query($on-palm) {
@@ -377,7 +377,7 @@
 // }
 
 /** Project formatting ********************************************/
-.project {
+.page {
   max-width: 600px;
   margin-bottom: 30px;
   &__title {
