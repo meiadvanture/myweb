@@ -1,14 +1,8 @@
 <section class="section about">
     <div class="section__title">About</div>
     <div class="section__content">
-      <p>
-        A B2B sales professional with a high school foundation in art and a background in statistics and data analytics from my undergraduate and graduate studies.
-        <br>
-        <br>
-        <strong>In my free time, </strong> 
-        you’ll likely find me backpacking, hiking, camping, skiing, snowboarding, or swaying in my hammock for a great afternoon nap. 
-        When I'm not outdoors, I’m all about crocheting, knitting, or bringing my woodworking designs to life.        
-      </p>
+      {% capture introduction_content %}{% include about-me.md %}{% endcapture %}
+      {{ introduction_content | markdownify }}
     </div>
   </section>
 
