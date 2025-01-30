@@ -25,5 +25,11 @@ collections:
   backpacking: 
     output: true
     permalink: /backpacking/:path/
+  curtis: 
+    output: true
+    permalink: /curtis/:path/
+  contact: 
+    output: true
+    permalink: /contact/:path/
 
 

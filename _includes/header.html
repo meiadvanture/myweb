@@ -3,15 +3,15 @@
     <nav class="site-nav">
       <div class="trigger">
         {%- comment -%}
-        you can use {{- site.title -}} instead of home
+        You can use {{- site.title -}} instead of "Home"
         {%- endcomment -%}
         <a class="page-link" href="{{- site.baseurl -}}/">Home</a>
-        {%- for page in site.pages -%}
-          {%- if page.nav -%}
-            <a class="page-link" href="{{- page.url | prepend: site.baseurl -}}">{{- page.title -}}</a>
-          {%- endif -%}
+        {%- assign sorted_pages = site.pages | where: "nav", true | sort: "nav_order" -%}
+        {%- for page in sorted_pages -%}
+          <a class="page-link" href="{{- page.url | prepend: site.baseurl -}}">{{- page.title -}}</a>
         {%- endfor -%}
       </div>
     </nav>
   </div>
 </header>
+

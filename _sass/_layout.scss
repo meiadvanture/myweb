@@ -39,6 +39,13 @@
       text-decoration-thickness: 1px; // Adjust the thickness
       text-underline-offset: 3px; // Adjust the offset (increase for more distance)
     }
+
+//the active is not working. therefore, disabled it for now
+    // &.active {
+    //   font-weight: bold; /* Highlight the active tab */
+    //   color: $theme-color; /* Change the text color */
+    //   border-bottom: 2px solid $theme-color; /* Add an underline effect */
+    // }
   }
   @include media-query($on-palm) {
     position: fixed;
@@ -327,10 +334,10 @@
     color: $theme-color;
   }
   h2 {
-    color: $theme-color;
+    color: $text-color;
   }
   h3 {
-    color: $theme-color;
+    color: $text-color;
   }
   a {
     font-weight: 700;

@@ -2,9 +2,11 @@
 layout: post
 title: Lost Coast 
 when: November 2021
-description: a 3 days 2 nights trip turned 4 days 3 nights
+date: 2021-11-01
+description: A long awaited backpacking adventure turned unexpected.
 # features: [test1, test2, test1 test2]
 ---
+Duration: a 3 days 2 nights trip turned 4 days 3 nights
 
   <a target="_blank" href="{{- site.baseurl -}}/img/lost-coast/coastal-pano-view.jpg">
     <img class="three" src="{{- site.baseurl -}}/img/thumb/lost-coast/coastal-pano-view.jpg" alt="" title=""/>

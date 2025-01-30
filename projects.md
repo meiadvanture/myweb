@@ -3,6 +3,7 @@ layout: page
 title: Projects
 description: 
 nav: true
+nav_order: 2
 ---
 
 <ul class="post-list">

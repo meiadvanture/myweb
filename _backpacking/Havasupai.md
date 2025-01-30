@@ -2,9 +2,13 @@
 layout: post
 title: Havasupai 
 when: April 2023
-description: 4 days 3 nights trip
+date: 2023-04-01
+description: Unpredictable mishaps, yet unforgettable moments.
 # features: [test1, test2, test1 test2]
 ---
+
+Duration: 4 days 3 nights trip
+
 <!-- <div class="img_row"> -->
   <a target="_blank" href="{{- site.baseurl -}}/img/havasupai/start-point.jpg">
     <img class="three" src="{{- site.baseurl -}}/img/thumb/havasupai/start-point.jpg" alt="" title=""/>
