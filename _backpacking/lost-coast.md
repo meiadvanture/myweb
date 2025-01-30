@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lost Coast 
+title: Lost Coast in King Range Wilderness
 when: November 2021
 date: 2021-11-01
-description: A long awaited backpacking adventure turned unexpected.
+description: Backpacking journey kicked off - a long awaited adventure turned unexpected.
 # features: [test1, test2, test1 test2]
 ---
 Duration: a 3 days 2 nights trip turned 4 days 3 nights

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Havasupai 
+title: Havasupai in Arizona
 when: April 2023
 date: 2023-04-01
 description: Unpredictable mishaps, yet unforgettable moments.

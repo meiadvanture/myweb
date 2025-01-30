@@ -3,6 +3,7 @@ layout: page
 title: Backpacking
 description: 
 nav: true
+nav_order: 1
 ---
 
 <ul class="post-list">
