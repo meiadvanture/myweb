@@ -54,3 +54,5 @@ As I close this chapter of memories, I’m reminded that this trail wasn’t jus
 Perhaps life is like this backpacking trip, that after enduring the hardships, something beautiful will emerge. :)
 
 
+\* Photo credits to [Curtis Ullerich](https://curtis.in/).
+
